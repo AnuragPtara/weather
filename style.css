@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color:rgb(252, 236, 221);
+}
+
+body{
+    background-color: rgb(255, 194, 136);
+}
+
+.card-body{
+    background-color: rgb(255, 103, 1);
+}
+
+.card-header{
+    background-color: rgb(254, 168, 47);
+}
+
+.container{
+    font-family: "Palatino";
+}
